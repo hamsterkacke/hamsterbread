@@ -12,7 +12,8 @@
         "modversion": "OTAUpdate",
        "urls":
         [
-        "http://dl.dropbox.com/u/10693833/Hamsters%20Rom/OTAUpdate.zip"
+        "http://dl.dropbox.com/u/10693833/Hamsters%20Rom/OTAUpdate.zip",
+        "http://hamsterkacke.hostingsociety.com/hamsterbread/OTAUpdate.zip"
         ]
     },
     {
