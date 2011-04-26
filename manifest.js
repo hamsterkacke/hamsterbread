@@ -8,7 +8,7 @@
         "name": "Test",
         "summary": "test",
         "device": "galaxys",
-        "product": "Test",
+        "product": "Hamsterbread",
         "modversion": "Hamsterbread-1.1",
         "incremental": "1010",
         "screenshots":
