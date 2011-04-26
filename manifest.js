@@ -9,8 +9,8 @@
         "summary": "test",
         "device": "galaxys",
         "product": "Test",
-        "incremental": "0011",
         "modversion": "Hamsterbread-1.1",
+        "incremental": "0011",
         "screenshots":
         [
         "http://img200.imageshack.us/img200/3009/image001ih.png",
@@ -26,8 +26,8 @@
         "summary": "Stable",
         "device": "galaxys",
         "product": "Hamsterbread",
-        "incremental": "0010",
         "modversion": "Hamsterbread-1.0",
+        "incremental": "0010",
         "screenshots":
         [
         "http://img200.imageshack.us/img200/3009/image001ih.png",
