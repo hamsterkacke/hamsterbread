@@ -17,21 +17,21 @@
 		url: "http://dl.dropbox.com/u210693833/Hamsters%20Rom/Hamsterbread1.0.zip"
 	},
 	{
-		name: "Hamsterbread 1.0",
+		name: "Hamsterbread 1.1",
 		summary: "Insanity Upgrade Package.",
 		device: "galaxys",
 		product: "Hamsterbread",
 		incremental: 0011,
-		modversion: "insanity-7.2",
+		modversion: "Hamsterbread-1.1",
 		url: "http://dl.dropbox.com/"
 	},
 	{
-		name: "Insanity 0.7.1",
+		name: "Hamsterbread 1.0",
 		visible: "false",
 		device: "galaxys",
-		product: "Insanity",
+		product: "Hamsterbread",
 		incremental: 0010,
-		modversion: "insanity-7.1",
+		modversion: "Hamsterbread-1.0",
 		url: ""
 	}
 	]
