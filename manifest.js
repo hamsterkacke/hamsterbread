@@ -5,6 +5,17 @@
     "roms":
     [
     {
+        "name": "OTAUpdate Package",
+        "summary": "Update to make Hamsterbread compatible with RomManager to receive OTA Updates",
+        "device": "galaxys"
+        "product": "Hamsterbread",
+        "modversion": "OTAUpdate",
+       "urls":
+        [
+        "http://dl.dropbox.com/u/10693833/Hamsters%20Rom/OTAUpdate.zip"
+        ]
+    },
+    {
         "name": "Hamsterbread 1.0",
         "summary": "Stable",
         "device": "galaxys",
