@@ -7,7 +7,7 @@
     {
         "name": "OTAUpdate Package",
         "summary": "Update to make Hamsterbread compatible with RomManager to receive OTA Updates",
-        "device": "galaxys"
+        "device": "galaxys",
         "product": "Hamsterbread",
         "modversion": "OTAUpdate",
        "urls":
