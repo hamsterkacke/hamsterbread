@@ -10,7 +10,7 @@
         "device": "galaxys",
         "product": "Test",
         "modversion": "Hamsterbread-1.1",
-        "incremental": 0011,
+        "incremental": "0011",
         "screenshots":
         [
         "http://img200.imageshack.us/img200/3009/image001ih.png",
@@ -27,7 +27,7 @@
         "device": "galaxys",
         "product": "Hamsterbread",
         "modversion": "Hamsterbread-1.0",
-        "incremental": 0010,
+        "incremental": "0010",
         "screenshots":
         [
         "http://img200.imageshack.us/img200/3009/image001ih.png",
