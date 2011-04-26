@@ -9,7 +9,7 @@
         "summary": "test",
         "device": "galaxys",
         "product": "Test",
-        "incremental": "1100",
+        "incremental": "0011",
         "modversion": "Test",
         "screenshots":
         [
@@ -26,7 +26,7 @@
         "summary": "Stable",
         "device": "galaxys",
         "product": "Hamsterbread",
-        "incremental": "1000",
+        "incremental": "0010",
         "modversion": "Hamsterbread-1.0",
         "screenshots":
         [
