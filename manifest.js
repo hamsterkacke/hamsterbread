@@ -18,7 +18,7 @@
         ],
         "urls":
         [
-        "http://dl.dropbox.com/u/10693833/Hamsters%20Rom/Hamsterbread1.0.zip"
+        "http://dl.dropbox.com/u210693833/Hamsters%20Rom/Hamsterbread1.0.zip"
         ]
     },
     {
