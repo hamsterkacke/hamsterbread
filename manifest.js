@@ -4,24 +4,6 @@
     "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q874QG28TAG5U",
     "roms":
     [
- {
-        "name": "Test",
-        "summary": "test",
-        "device": "galaxys",
-        "product": "Hamsterbread",
-        "incremental": "1010",
-        "modversion": "Hamsterbread-1.1",
-        "visible": "false",
-        "screenshots":
-        [
-        "http://img200.imageshack.us/img200/3009/image001ih.png",
-        "http://img705.imageshack.us/img705/6954/image002hn.png"
-        ],
-        "urls":
-        [
-        ""
-        ]
-    },
     {
         "name": "Hamsterbread 1.0",
         "summary": "Stable",
