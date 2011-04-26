@@ -17,7 +17,7 @@
     },
     {
         "name": "Hamsterbread 1.0",
-        "summary": "Stable",
+        "summary": "Make sure to check the instrcutions! Press Menu and hit developer page.",
         "device": "galaxys",
         "product": "Hamsterbread",
         "incremental": "1000",
