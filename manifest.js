@@ -8,9 +8,9 @@
         "name": "Test",
         "summary": "test",
         "device": "galaxys",
-        "product": "Hamsterbread",
-        "incremental": "1001",
-        "modversion": "Hamsterbread-1.0",
+        "product": "Test",
+        "incremental": "1100",
+        "modversion": "Test",
         "screenshots":
         [
         "http://img200.imageshack.us/img200/3009/image001ih.png",
