@@ -23,7 +23,7 @@
     },
     {
         "name": "Hamsterbread 1.0",
-        "summary": "Stable",
+        "summary": "Please only use if you're on Gingerbread with Gingerbread Bootloader. Stable!",
         "device": "galaxys",
         "product": "Hamsterbread",
         "modversion": "Hamsterbread-1.0",
