@@ -11,6 +11,7 @@
         "product": "Hamsterbread",
         "incremental": "1010",
         "modversion": "Hamsterbread-1.1",
+        "visible": "false",
         "screenshots":
         [
         "http://img200.imageshack.us/img200/3009/image001ih.png",
