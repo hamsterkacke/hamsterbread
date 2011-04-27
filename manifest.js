@@ -29,17 +29,6 @@
         ]
     },
     {
-        "name": "OTAUpdate Package",
-        "summary": "Update to make Hamsterbread compatible with RomManager to receive OTA Updates",
-        "device": "galaxys",
-        "product": "Hamsterbread",
-        "modversion": "OTAUpdate",
-       "urls":
-        [
-        "http://hamsterkacke.hostingsociety.com/hamsterbread/OTAUpdate.zip"
-        ]
-    },
-    {
         "name": "Hamsterbread 1.0",
         "visible": "false",
         "summary": "Make sure to check the instrcutions! Press Menu and hit Homepage.",
