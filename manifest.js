@@ -5,6 +5,17 @@
     "roms":
     [
     {
+        "name": "Hamsterbread 1.0 to 1.1 Update",
+        "summary": "Update to 1.1 for all Users that are running 1.0. Only flash if you are running 1.0!",
+        "device": "galaxys",
+        "product": "Hamsterbread",
+        "modversion": "Hamsterbread-1.1",
+       "urls":
+        [
+        "http://hamsterkacke.hostingsociety.com/hamsterbread/Hamsterbread-1.0-to-1.1.zip"
+        ]
+    },
+    {
         "name": "OTAUpdate Package",
         "summary": "Update to make Hamsterbread compatible with RomManager to receive OTA Updates",
         "device": "galaxys",
