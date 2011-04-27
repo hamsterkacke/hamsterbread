@@ -5,7 +5,7 @@
     "roms":
     [
     {
-        "name": "Hamsterbread 11",
+        "name": "Hamsterbread 1.1",
         "summary": "Full Rom. Please read the instructions for Features and Installation. Hit Menu and Homepage",
         "device": "galaxys",
         "product": "Hamsterbread",
