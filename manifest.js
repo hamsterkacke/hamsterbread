@@ -10,6 +10,7 @@
         "device": "galaxys",
         "product": "Hamsterbread",
         "modversion": "Hamsterbread-1.1",
+        "incremental": "1100",
        "urls":
         [
         "http://hamsterkacke.hostingsociety.com/hamsterbread/Hamsterbread-1.0-to-1.1.zip"
