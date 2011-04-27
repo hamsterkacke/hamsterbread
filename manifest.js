@@ -5,6 +5,18 @@
     "roms":
     [
     {
+        "name": "Hamsterbread 11",
+        "summary": "Full Rom. Please read the instructions for Features and Installation. Hit Menu and Homepage",
+        "device": "galaxys",
+        "product": "Hamsterbread",
+        "modversion": "Hamsterbread-1.1",
+        "incremental": "1100",
+       "urls":
+        [
+        "http://hamsterkacke.hostingsociety.com/hamsterbread/Hamsterbread1.1.zip"
+        ]
+    },
+    {
         "name": "Hamsterbread 1.0 to 1.1 Update",
         "summary": "Update to 1.1 for all Users that are running 1.0. Only flash if you are running 1.0!",
         "device": "galaxys",
@@ -29,6 +41,7 @@
     },
     {
         "name": "Hamsterbread 1.0",
+        "visible": "false",
         "summary": "Make sure to check the instrcutions! Press Menu and hit Homepage.",
         "device": "galaxys",
         "product": "Hamsterbread",
