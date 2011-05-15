@@ -5,6 +5,18 @@
     "roms":
     [
     {
+        "name": "Hamsterbread 2.0",
+        "summary": "Full Rom. Please read the instructions for Features and Installation. Hit Menu and Homepage",
+        "device": "galaxys",
+        "product": "Hamsterbread",
+        "modversion": "Hamsterbread-2.0",
+        "incremental": "2000",
+       "urls":
+        [
+        "http://hamsterkacke.hostingsociety.com/hamsterbread/Hamsterbread2.0.zip"
+        ]
+    },
+    {
         "name": "Hamsterbread 1.1",
         "summary": "Full Rom. Please read the instructions for Features and Installation. Hit Menu and Homepage",
         "device": "galaxys",
